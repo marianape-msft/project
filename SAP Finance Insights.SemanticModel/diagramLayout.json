@@ -1,0 +1,1318 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 5128.6502265472673,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 753.6385228390169,
+            "y": 436.92381375327591
+          },
+          "nodeIndex": "GLACCOUNTLINEITEMRAWDATA",
+          "nodeLineageTag": "f21b59e0-09a3-402e-973a-5edc76b84fed",
+          "size": {
+            "height": 608,
+            "width": 314.21553884711784
+          },
+          "zIndex": 35
+        },
+        {
+          "location": {
+            "x": 366.43753226242745,
+            "y": 422.21988538135395
+          },
+          "nodeIndex": "CHARTOFACCOUNTS",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 28
+        },
+        {
+          "location": {
+            "x": 1193.9010756926305,
+            "y": 384.27417133567053
+          },
+          "nodeIndex": "GLACCOUNTINCHARTOFACCOUNTS",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 29
+        },
+        {
+          "location": {
+            "x": 380.98191843150835,
+            "y": 1156.4261252260794
+          },
+          "nodeIndex": "LEDGER",
+          "nodeLineageTag": "8beb916c-c88c-40bc-b209-55f902768fe0",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 30
+        },
+        {
+          "location": {
+            "x": 1192.7199470780765,
+            "y": 749.30807223457032
+          },
+          "nodeIndex": "PROFITCENTER",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 31
+        },
+        {
+          "location": {
+            "x": 1189.5681862879615,
+            "y": 1129.2890758018609
+          },
+          "nodeIndex": "COSTCENTER",
+          "nodeLineageTag": "fdfa0381-d93e-4328-80dc-0d3bceb5ad64",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 32
+        },
+        {
+          "location": {
+            "x": 1192.1132230415642,
+            "y": 1.6220639010575155
+          },
+          "nodeIndex": "GLACCOUNTHIERARCHYWTEXT",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 34
+        },
+        {
+          "location": {
+            "x": 1187.9849396336544,
+            "y": 1471.9385505650328
+          },
+          "nodeIndex": "COMPANYCODE",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 25
+        },
+        {
+          "location": {
+            "x": 808.95121810366174,
+            "y": 1208.3536657494367
+          },
+          "nodeIndex": "AGGR_H",
+          "nodeLineageTag": "48524162-dcc1-4980-8fa2-c0ae91dc2b94",
+          "size": {
+            "height": 435.15396521399816,
+            "width": 234
+          },
+          "zIndex": 40
+        },
+        {
+          "location": {
+            "x": 2625.1326597268358,
+            "y": 287.02052153511744
+          },
+          "nodeIndex": "_FIELD_PARAM_CLOSING_BALANCE",
+          "size": {
+            "height": 152,
+            "width": 266.6191368546265
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 2662.626721797134,
+            "y": 768.97838380629594
+          },
+          "nodeIndex": "_FIELD_PARAM_GLACCT_HRCHY_CLOSING_BALANCE",
+          "size": {
+            "height": 152,
+            "width": 315.54784213656694
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 2654.0196318398971,
+            "y": 511.62257198397003
+          },
+          "nodeIndex": "_FIELD_PARAM_CURRENCY",
+          "nodeLineageTag": "6ac547c6-1926-4a0e-9480-4ed8a61d32ea",
+          "size": {
+            "height": 158.41682855995907,
+            "width": 296.08924691619177
+          },
+          "zIndex": 42
+        },
+        {
+          "location": {
+            "x": 2319.2054003606845,
+            "y": 281.89515507913319
+          },
+          "nodeIndex": "_FIELD_PARAM_CURRENT_PERIOD",
+          "size": {
+            "height": 152,
+            "width": 262.541744747798
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 1979.5413559663266,
+            "y": 281.12024764511625
+          },
+          "nodeIndex": "_FIELD_PARAM_OPENING_BALANCE",
+          "size": {
+            "height": 152,
+            "width": 276.16803714676735
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 2305.3804031796044,
+            "y": 768.02998197166858
+          },
+          "nodeIndex": "_FIELD_PARAM_GLACCT_HRCHY_CURRENT_PERIOD",
+          "size": {
+            "height": 152,
+            "width": 310.1113193274623
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 1942.5909488514726,
+            "y": 763.33027715859976
+          },
+          "nodeIndex": "_FIELD_PARAM_GLACCT_HRCHY_OPENING_BALANCE",
+          "size": {
+            "height": 152,
+            "width": 310.1113193274623
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 2772.1103359903773,
+            "y": 0
+          },
+          "nodeIndex": "_FIELD_PARAM_TRIALBALANCE_FIELDS",
+          "nodeLineageTag": "f53d004b-7d5a-499a-b34d-16e207b10f51",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 33
+        },
+        {
+          "location": {
+            "x": 1997.0579731474863,
+            "y": 0
+          },
+          "nodeIndex": "_FISCALPERIODTABLE",
+          "nodeLineageTag": "a4286efc-9029-4797-8559-0b28b578e35c",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 24
+        },
+        {
+          "location": {
+            "x": 3071.1571758074133,
+            "y": 0
+          },
+          "nodeIndex": "_FIELD_PARAM_LINE_ITEM_FIELDS",
+          "nodeLineageTag": "d81a40cf-e42f-4bc8-9b39-d93bf95e1c8f",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 21.871799691531265,
+            "y": 393.46833830893536
+          },
+          "nodeIndex": "CHARTOFACCOUNTSTEXT",
+          "nodeLineageTag": "1ac820c4-851f-4acb-b626-0a39501ebecd",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 37
+        },
+        {
+          "location": {
+            "x": 2175.4143974480362,
+            "y": 1400.0641763908359
+          },
+          "nodeIndex": "SAPLANGUAGE",
+          "nodeLineageTag": "698b4fd2-92c4-4dd0-afda-4aa16d1f0945",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 36
+        },
+        {
+          "location": {
+            "x": 1956.5943543815815,
+            "y": 1133.4423824242319
+          },
+          "nodeIndex": "_FIELD_PARAM_CHARTOFACCOUNTSTEXT",
+          "nodeLineageTag": "f62f2a68-e36e-4e7d-8f52-d1999e6848b6",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 360.17854426355706,
+            "y": 700.36642180804915
+          },
+          "nodeIndex": "DEBITCREDITCODETEXT",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 39
+        },
+        {
+          "location": {
+            "x": 3366.246371272523,
+            "y": 1021.7246177611648
+          },
+          "nodeIndex": "_FIELD_PARAM_DEBITCREDITCODETEXT",
+          "nodeLineageTag": "590204a4-f9c7-4dad-a245-dfba014a8702",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 38
+        },
+        {
+          "location": {
+            "x": 3590.8907070929017,
+            "y": 735.96927528251638
+          },
+          "nodeIndex": "LEDGERTEXT",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 3874.8907070929017,
+            "y": 809.96927528251638
+          },
+          "nodeIndex": "_FIELD_PARAM_LEDGERTEXT",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 4137.0189074013706,
+            "y": 735.96927528251638
+          },
+          "nodeIndex": "SEGMENTTEXT",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 4399.1471077098395,
+            "y": 809.96927528251638
+          },
+          "nodeIndex": "_FIELD_PARAM_SEGMENTTEXT",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 4661.2753080183084,
+            "y": 735.96927528251638
+          },
+          "nodeIndex": "COSTCENTERTEXT",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 4923.4035083267772,
+            "y": 809.96927528251638
+          },
+          "nodeIndex": "_FIELD_PARAM_COSTCENTERTEXT",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 5185.5317086352461,
+            "y": 735.96927528251638
+          },
+          "nodeIndex": "PROFITCENTERTEXT",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 5447.659908943715,
+            "y": 809.96927528251638
+          },
+          "nodeIndex": "_FIELD_PARAM_PROFITCENTERTEXT",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 5709.7881092521839,
+            "y": 735.96927528251638
+          },
+          "nodeIndex": "GLACCOUNTINCHARTOFACCOUNTSTEXT",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 5971.9163095606527,
+            "y": 809.96927528251638
+          },
+          "nodeIndex": "_FIELD_PARAM_GLACCOUNTINCHARTOFACCOUNTSTEXT",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 3035.3628704100793,
+            "y": 802.88137908050339
+          },
+          "nodeIndex": "_FIELD_PARAM_REVENUE",
+          "nodeLineageTag": "691c66f4-3a84-4537-9fac-4a30fd735531",
+          "size": {
+            "height": 168.30956842731337,
+            "width": 352.24437109802193
+          },
+          "zIndex": 41
+        },
+        {
+          "location": {
+            "x": 2112.4729477046094,
+            "y": 500.64246859370928
+          },
+          "nodeIndex": "_FIELD_PARAM_COGS",
+          "nodeLineageTag": "6128ab99-9e72-4f4c-93ac-3be3db044482",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 2938.7921021318161,
+            "y": 277.65927095572073
+          },
+          "nodeIndex": "_FIELD_PARAM_INVENTORYCHANGE",
+          "size": {
+            "height": 152,
+            "width": 325.43980697941652
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 3595.9258681559591,
+            "y": 312.66506188569048
+          },
+          "nodeIndex": "_FIELD_PARAM_OPEX",
+          "nodeLineageTag": "52bcef8a-f836-48ba-b4de-497bebcc8bca",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 3327.0615051278173,
+            "y": 299.83140476577222
+          },
+          "nodeIndex": "_FIELD_PARAM_OTHEREXPENSES",
+          "nodeLineageTag": "d997fb18-9468-473f-93f6-fd698663d041",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 1714.8974326490547,
+            "y": 309.61197801802393
+          },
+          "nodeIndex": "_FIELD_PARAM_GROSSPROFIT",
+          "nodeLineageTag": "814f986b-032b-4410-a132-e34746634f70",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1843.2339977286713,
+            "y": 551.8472561564779
+          },
+          "nodeIndex": "_FIELD_PARAM_OPERATINGPROFIT",
+          "nodeLineageTag": "dab9e36c-c21f-463d-a8f7-d9438322c3e8",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2518.1892973481445,
+            "y": 0
+          },
+          "nodeIndex": "__MEASURES_GLACCOUNTHIERARCHY",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2258.9734014851238,
+            "y": 2.6995324746170457
+          },
+          "nodeIndex": "__MEASURES_OTHER",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6234.0445098691216,
+            "y": 833.96927528251638
+          },
+          "nodeIndex": "__MEASURES_PROFITABILITY",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6518.0445098691216,
+            "y": 735.96927528251638
+          },
+          "nodeIndex": "CUSTOMER",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3234.2878305318927,
+            "y": 534.04564720427743
+          },
+          "nodeIndex": "_FIELD_PARAM_TAXES",
+          "nodeLineageTag": "ea7c9d2f-874c-496f-9de2-a84aae45a159",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {},
+          "nodeIndex": "_FIELD_PARAM_NETPROFIT",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {},
+          "nodeIndex": "PRODUCT",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {},
+          "nodeIndex": "PRODUCTTEXT",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {},
+          "nodeIndex": "PRODUCTGROUP2TEXT",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {},
+          "nodeIndex": "_FIELD_PARAM_PRODUCTTEXT",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {},
+          "nodeIndex": "_FIELD_PARAM_PRODUCTGROUP2TEXT",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 62.336089590424237,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 1,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 331.5250284907666,
+            "y": 292.28510371543723
+          },
+          "nodeIndex": "SAPLANGUAGE",
+          "nodeLineageTag": "698b4fd2-92c4-4dd0-afda-4aa16d1f0945",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "_FIELD_PARAM_CHARTOFACCOUNTSTEXT",
+          "nodeLineageTag": "f62f2a68-e36e-4e7d-8f52-d1999e6848b6",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 324,
+            "y": 0
+          },
+          "nodeIndex": "_FIELD_PARAM_DEBITCREDITCODETEXT",
+          "nodeLineageTag": "590204a4-f9c7-4dad-a245-dfba014a8702",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 635.11964895153733,
+            "y": 6.8186801900828868
+          },
+          "nodeIndex": "_FIELD_PARAM_LEDGERTEXT",
+          "nodeLineageTag": "6c09578f-679d-45e2-a56c-6da7568c2db3",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 557.39376566238275
+          },
+          "nodeIndex": "_FIELD_PARAM_SEGMENTTEXT",
+          "nodeLineageTag": "deafddc2-f569-4eee-b6e9-5916019270cc",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 323.37850466585149,
+            "y": 575.68930975903822
+          },
+          "nodeIndex": "_FIELD_PARAM_COSTCENTERTEXT",
+          "nodeLineageTag": "357f6635-d3b7-43d4-ac0e-5ed32384da49",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 632.60560746536237,
+            "y": 574.3635456940633
+          },
+          "nodeIndex": "_FIELD_PARAM_PROFITCENTERTEXT",
+          "nodeLineageTag": "52d34bb3-0981-440a-92da-1754afcc13ff",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 961.94504215427241,
+            "y": 572.478014579432
+          },
+          "nodeIndex": "_FIELD_PARAM_GLACCOUNTINCHARTOFACCOUNTSTEXT",
+          "nodeLineageTag": "67b4a9af-39ae-4d4f-8ffc-26d8e8409b6b",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 966.3446147550784,
+            "y": 0
+          },
+          "nodeIndex": "_FIELD_PARAM_PRODUCTTEXT",
+          "nodeLineageTag": "9106c737-7777-4b9d-8b58-e1bc43f4786c",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 861.38338270727684,
+            "y": 312.90323113187515
+          },
+          "nodeIndex": "_FIELD_PARAM_PRODUCTGROUP2TEXT",
+          "nodeLineageTag": "02d34253-b5d4-4900-aeb0-0ec6a2493a53",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 9
+        }
+      ],
+      "name": "Language Field Parameters",
+      "zoomValue": 79.5531820376998,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 2,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 850.01789216650889,
+            "y": 401.80232951344817
+          },
+          "nodeIndex": "GLACCOUNTLINEITEMRAWDATA",
+          "nodeLineageTag": "f21b59e0-09a3-402e-973a-5edc76b84fed",
+          "size": {
+            "height": 1000,
+            "width": 404.65092404362758
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 431.48228857137161,
+            "y": 392.72404831792772
+          },
+          "nodeIndex": "CHARTOFACCOUNTS",
+          "nodeLineageTag": "49390dbd-4d37-45a6-b704-85c43d56a435",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 72.90720309907168,
+            "y": 367.583633456179
+          },
+          "nodeIndex": "CHARTOFACCOUNTSTEXT",
+          "nodeLineageTag": "1ac820c4-851f-4acb-b626-0a39501ebecd",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 435.253350800634,
+            "y": 710.75029631905079
+          },
+          "nodeIndex": "DEBITCREDITCODETEXT",
+          "nodeLineageTag": "62f1fd42-a34d-4d2e-899f-886333770eca",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 457.42157205491583,
+            "y": 1082.1753556713195
+          },
+          "nodeIndex": "LEDGER",
+          "nodeLineageTag": "8beb916c-c88c-40bc-b209-55f902768fe0",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 54.495779174128643,
+            "y": 1065.5842936115223
+          },
+          "nodeIndex": "LEDGERTEXT",
+          "nodeLineageTag": "bc5b61f2-1aed-45b4-afad-0644473690c1",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 446.36086401505111,
+            "y": 1484.3110738674006
+          },
+          "nodeIndex": "SEGMENTTEXT",
+          "nodeLineageTag": "3c690054-e45c-4a97-9de5-9b334482e729",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 1347.0185186897518,
+            "y": 1515.1230703745966
+          },
+          "nodeIndex": "COMPANYCODE",
+          "nodeLineageTag": "d2529bd6-08ba-44ab-bf23-c96304af0f9e",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1798.6764679888649,
+            "y": 1488.3698381898153
+          },
+          "nodeIndex": "COSTCENTER",
+          "nodeLineageTag": "fdfa0381-d93e-4328-80dc-0d3bceb5ad64",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 1406.6711348454483,
+            "y": 1969.0558885108692
+          },
+          "nodeIndex": "COSTCENTERTEXT",
+          "nodeLineageTag": "cf0c0110-0941-4cde-823f-3f14f4299819",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 1409.4325140575604,
+            "y": 1128.2352462865811
+          },
+          "nodeIndex": "PROFITCENTER",
+          "nodeLineageTag": "a0ce84a9-6dd8-4d97-9ccc-e113e770e0aa",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 1794.8577460524243,
+            "y": 1117.5654613887577
+          },
+          "nodeIndex": "PROFITCENTERTEXT",
+          "nodeLineageTag": "a45c72ae-727b-4754-9589-9ea53a41f09e",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 1356.4991255810646,
+            "y": 412.21246868522638
+          },
+          "nodeIndex": "GLACCOUNTINCHARTOFACCOUNTS",
+          "nodeLineageTag": "83eec84b-c79e-432d-9fdd-5a4e0315b533",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 1796.5572954528263,
+            "y": 380.6104457141841
+          },
+          "nodeIndex": "GLACCOUNTINCHARTOFACCOUNTSTEXT",
+          "nodeLineageTag": "8a1dd9ea-fc50-45dc-a292-1b39cbd6f098",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 1713.6019851538406,
+            "y": 736.133204138408
+          },
+          "nodeIndex": "GLACCOUNTHIERARCHYWTEXT",
+          "nodeLineageTag": "d75bc4d1-0632-4082-8973-82d4c783e7bf",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 867.60706149004682,
+            "y": 1566.8026657803882
+          },
+          "nodeIndex": "AGGR_H",
+          "nodeLineageTag": "48524162-dcc1-4980-8fa2-c0ae91dc2b94",
+          "size": {
+            "height": 592.3187124821402,
+            "width": 311.42495627905305
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 522.78696741854628,
+            "y": 4.3233082706766943
+          },
+          "nodeIndex": "CUSTOMER",
+          "nodeLineageTag": "513a5be0-56e9-418d-b377-dd3d397b43d9",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 1332.68671679198,
+            "y": 7.3182957393483719
+          },
+          "nodeIndex": "PRODUCT",
+          "nodeLineageTag": "043a140f-4723-4203-afdc-d222454c839d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 1731.8721804511279,
+            "y": 0
+          },
+          "nodeIndex": "PRODUCTTEXT",
+          "nodeLineageTag": "6ab7e83d-132b-4c90-96cd-eba38882df64",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 911.91554103459339,
+            "y": 0
+          },
+          "nodeIndex": "PRODUCTGROUP2TEXT",
+          "nodeLineageTag": "40a94daa-3aa1-497e-ba84-71882ac8d415",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 20
+        }
+      ],
+      "name": "Finance Data Model",
+      "zoomValue": 60,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 3,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 294.44932755759635,
+            "y": 285.96764303571075
+          },
+          "nodeIndex": "_FIELD_PARAM_CURRENCY",
+          "nodeLineageTag": "6ac547c6-1926-4a0e-9480-4ed8a61d32ea",
+          "size": {
+            "height": 340.55311146311647,
+            "width": 275.48168452188554
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 57.099509913580562
+          },
+          "nodeIndex": "_FIELD_PARAM_COGS",
+          "nodeLineageTag": "6128ab99-9e72-4f4c-93ac-3be3db044482",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 319.60744243658922,
+            "y": 5.561659446995435
+          },
+          "nodeIndex": "_FIELD_PARAM_GROSSPROFIT",
+          "nodeLineageTag": "814f986b-032b-4410-a132-e34746634f70",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 676.60133347342287,
+            "y": 35.73015728109403
+          },
+          "nodeIndex": "_FIELD_PARAM_INVENTORYCHANGE",
+          "nodeLineageTag": "b2a85393-297d-4e1b-a63d-947f07d02d59",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 743.22343285705733,
+            "y": 280.84920218314539
+          },
+          "nodeIndex": "_FIELD_PARAM_OPERATINGPROFIT",
+          "nodeLineageTag": "dab9e36c-c21f-463d-a8f7-d9438322c3e8",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 699.22770684899683,
+            "y": 529.739309314459
+          },
+          "nodeIndex": "_FIELD_PARAM_OPEX",
+          "nodeLineageTag": "52bcef8a-f836-48ba-b4de-497bebcc8bca",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 685.400478675035,
+            "y": 748.46091861167406
+          },
+          "nodeIndex": "_FIELD_PARAM_OTHEREXPENSES",
+          "nodeLineageTag": "d997fb18-9468-473f-93f6-fd698663d041",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 369.8882721600869,
+            "y": 744.68985638241168
+          },
+          "nodeIndex": "_FIELD_PARAM_REVENUE",
+          "nodeLineageTag": "691c66f4-3a84-4537-9fac-4a30fd735531",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 80.773501249975084,
+            "y": 719.54944152066287
+          },
+          "nodeIndex": "_FIELD_PARAM_TAXES",
+          "nodeLineageTag": "ea7c9d2f-874c-496f-9de2-a84aae45a159",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 355.32882733735039
+          },
+          "nodeIndex": "_FIELD_PARAM_NETPROFIT",
+          "nodeLineageTag": "bef909f4-bf11-481a-a9da-41729c498850",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 9
+        }
+      ],
+      "name": "Profitability Field Parameters",
+      "zoomValue": 63.287087723234016,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 4,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 301.65018235598421,
+            "y": 420.98290403224195
+          },
+          "nodeIndex": "_FIELD_PARAM_CURRENCY",
+          "nodeLineageTag": "6ac547c6-1926-4a0e-9480-4ed8a61d32ea",
+          "size": {
+            "height": 168.34126966013673,
+            "width": 276.73870526497308
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 118.69352632486525
+          },
+          "nodeIndex": "_FIELD_PARAM_CLOSING_BALANCE",
+          "nodeLineageTag": "7f782f11-c040-4fa5-87e9-845450713b85",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 378.41651462731051,
+            "y": 104.09274471756544
+          },
+          "nodeIndex": "_FIELD_PARAM_CURRENT_PERIOD",
+          "nodeLineageTag": "0ec48064-b68e-4762-a56c-4e4fa6a08c51",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 741.83977879429517,
+            "y": 134.11466654005545
+          },
+          "nodeIndex": "_FIELD_PARAM_OPENING_BALANCE",
+          "nodeLineageTag": "d438bd8a-1739-4d74-8574-ae20d86834d7",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 54.495779174128643,
+            "y": 731.39290069275182
+          },
+          "nodeIndex": "_FIELD_PARAM_GLACCT_HRCHY_CLOSING_BALANCE",
+          "nodeLineageTag": "74695b6b-798f-4feb-8a91-95f3a03f8cec",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 364.19560429034146,
+            "y": 720.3321926528871
+          },
+          "nodeIndex": "_FIELD_PARAM_GLACCT_HRCHY_CURRENT_PERIOD",
+          "nodeLineageTag": "21a55a04-79af-4a28-aaaf-e33b3fa6cbbd",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 670.73522710945031,
+            "y": 728.23269839564762
+          },
+          "nodeIndex": "_FIELD_PARAM_GLACCT_HRCHY_OPENING_BALANCE",
+          "nodeLineageTag": "cb011913-dbfc-4c84-b208-6a63b2d63cf8",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Currency Field Parameters",
+      "zoomValue": 63.287087723234016,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Finance Data Model",
+  "defaultDiagram": "All tables"
+}

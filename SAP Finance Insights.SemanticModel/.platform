@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "SAP Finance Insights"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4fc35cf0-7b21-4443-9634-115348223698"
+  }
+}
